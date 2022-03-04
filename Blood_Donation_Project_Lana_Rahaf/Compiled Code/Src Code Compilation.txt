@@ -1,0 +1,190 @@
+SQL> Start "D:\CIS360\Blood_Bank\Src Code";
+SP2-0310: unable to open file "D:\CIS360\Blood_Bank\Src Code.sql"
+SQL> start "D:\CIS360\Blood_Bank\Src Code\DropDB.sql";
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Sequence dropped.
+
+
+Sequence dropped.
+
+SQL> start "D:\CIS360\Blood_Bank\Src Code\BuildDB.sql"
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Table created.
+
+
+Sequence created.
+
+
+Sequence created.
+
+SQL> start "D:\CIS360\Blood_Bank\Src Code\InhibitDB.sql";
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+SQL> start "D:\CIS360\Blood_Bank\Src Code\DropDB.sql";
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Table dropped.
+
+
+Sequence dropped.
+
+
+Sequence dropped.
+
+SQL> spool off;
